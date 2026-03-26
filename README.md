@@ -21,6 +21,9 @@ values,vectors=np.linalg.eig(a)
 print(f"Eigen values are {values} and Eigen Vectors are {vectors}")
 ```
 ## Output:
+
+<img width="1208" height="702" alt="Screenshot 2026-03-26 111318" src="https://github.com/user-attachments/assets/349b01bd-85c5-4e7a-ad8c-866bc16fa19c" />
+
 <img width="1238" height="405" alt="Screenshot 2026-02-08 205800" src="https://github.com/user-attachments/assets/75974f4a-3fc3-4ecf-b5b4-ff90eade029e" />
 
 ## Result:
